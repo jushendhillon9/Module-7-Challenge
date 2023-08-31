@@ -1,0 +1,28 @@
+## My Favorite Project  ![BadgeLicense](https://img.shields.io/badge/License-MIT-yellow.svg)
+## Description
+My motivation for this project was to complete the 7th module challenge. I built this project in hopes of receiving a high grade in the boot camp. This project solves the quantum space and time theory. I learned nothing. 
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Credits](#credits)
+- [Tests](#tests)
+## Installation
+First, you must go to npm and search for the name of the package. Then in the command line, run npm init -y. After, be sure to install the actual package with npm install packageName.
+## Usage
+This project is great for having a packaage.json() work as intended; otherwise managing the dependencies can get a little messy and will bloat the size of your project.
+## License
+MIT
+## Contributing
+Please send a pull request to my GitHub and I will review potential changes.
+## Tests
+to run the tests, you must first create this readME file.;
+## Credits
+Collaborators: https://youtube.com/WebDevSimplified<br>
+Third-party assets: https://www.youtube.com/watch?v=rhzKDrUiJVk<br>
+Tutorials: to run the tests, you must first create this readME file. 
+## Question
+Link to Github: https://github.com/jushendhillon9<br>
+<br>
+If you have any further questions, please reach out to me via email @jdhillo19@gmail.com
